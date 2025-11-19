@@ -1,0 +1,10 @@
+STUDENT PROFILE
+--------------------------------------------------
+Name: Adhyan Kashyap
+Roll No: 2501060003
+Course: BCA
+University: K.R. Mangalam University
+City: Delhi
+Age: 18
+Hobby: Coding
+--------------------------------------------------
