@@ -1,0 +1,16 @@
+Run 3 - Return + Borrowed List
+
+Enter choice: 6
+--- Borrowed Records ---
+Adhyan -> B101
+
+Enter choice: 5
+--- Return Book ---
+Enter Student Name: Adhyan
+Borrowed books: ['B101']
+Enter Book ID to return: B101
+Adhyan returned B101 successfully.
+
+Updated Borrowed List:
+
+Press Enter to continue...
